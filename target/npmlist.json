@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "astro-boilerplate",
+  "dependencies": {
+    "astro-boilerplate-components": { "version": "1.0.8" },
+    "date-fns": { "version": "2.28.0" },
+    "react-dom": { "version": "18.2.0" },
+    "react": { "version": "18.2.0" }
+  }
+}
